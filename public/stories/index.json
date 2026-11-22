@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-11-22T17:24:02.538Z",
+  "storyCount": 3,
+  "stories": [
+    {
+      "id": "lotti-ente-rueebli",
+      "title": "Lotti die Ente teilt das Rüebli",
+      "titleEn": "Lotti the Duck Shares the Carrot",
+      "animal": "Ente",
+      "animalEmoji": "🦆",
+      "theme": "Freunde",
+      "createdAt": "2026-11-22T12:20:00.000Z",
+      "sceneCount": 7,
+      "coverSvg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F3FF'/><circle cx='336' cy='58' r='32' fill='#FFD166'/><path d='M0 206 Q200 182 400 206 L400 300 L0 300 Z' fill='#A8D89A'/><ellipse cx='200' cy='258' rx='155' ry='38' fill='#7CC6FE'/><g class='kg-bob'><ellipse cx='160' cy='204' rx='40' ry='28' fill='#F7C948'/><circle cx='184' cy='158' r='28' fill='#F7C948'/><path d='M180 132 Q186 118 194 130' fill='none' stroke='#F7C948' stroke-width='6' stroke-linecap='round'/><ellipse cx='212' cy='164' rx='16' ry='9' fill='#F08A24'/><circle cx='192' cy='152' r='4' fill='#2F2419'/><circle cx='184' cy='164' r='6' fill='#F29B8F' opacity='0.6'/><ellipse cx='154' cy='204' rx='22' ry='14' fill='#E9B824'/></g><g transform='rotate(-22 276 196)'><polygon points='254,196 306,184 306,208' fill='#F07124'/><path d='M306 196 L326 184 M306 196 L328 196 M306 196 L324 208' stroke='#40916C' stroke-width='5' stroke-linecap='round'/></g></svg>",
+      "vocabulary": [
+        {
+          "article": "das",
+          "word": "Rüebli",
+          "translationEn": "carrot (Swiss German)",
+          "emoji": "🥕"
+        },
+        {
+          "article": "der",
+          "word": "Teich",
+          "translationEn": "pond",
+          "emoji": "💧"
+        },
+        {
+          "article": "der",
+          "word": "Hase",
+          "translationEn": "rabbit / bunny",
+          "emoji": "🐰"
+        },
+        {
+          "article": "die",
+          "word": "Sonne",
+          "translationEn": "sun",
+          "emoji": "☀️"
+        }
+      ]
+    },
+    {
+      "id": "mia-fuchs-schnee",
+      "title": "Mia der Fuchs im weissen Schnee",
+      "titleEn": "Mia the Fox in the White Snow",
+      "animal": "Fuchs",
+      "animalEmoji": "🦊",
+      "theme": "Schnee",
+      "createdAt": "2026-11-22T12:10:00.000Z",
+      "sceneCount": 7,
+      "coverSvg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#CFE8FF'/><polygon points='30,220 135,90 240,220' fill='#A9C9E8'/><polygon points='110,121 135,90 160,121 146,115 135,125 124,115' fill='#FFFFFF'/><polygon points='175,220 285,80 395,220' fill='#94B9DF'/><polygon points='258,114 285,80 312,114 297,108 285,118 273,108' fill='#FFFFFF'/><path d='M0 212 Q160 185 400 215 L400 300 L0 300 Z' fill='#FFFFFF'/><g class='kg-float'><circle cx='65' cy='60' r='5' fill='#FFFFFF'/><circle cx='185' cy='45' r='4' fill='#FFFFFF'/><circle cx='330' cy='68' r='5.5' fill='#FFFFFF'/><circle cx='245' cy='105' r='4' fill='#FFFFFF'/></g><g class='kg-bob'><ellipse cx='248' cy='218' rx='36' ry='18' fill='#E2703A' transform='rotate(-15 248 218)'/><ellipse cx='274' cy='210' rx='14' ry='10' fill='#FFF8F0' transform='rotate(-15 274 210)'/><ellipse cx='192' cy='204' rx='34' ry='40' fill='#E2703A'/><ellipse cx='192' cy='210' rx='20' ry='26' fill='#FFF8F0'/><rect x='164' y='168' width='56' height='14' rx='7' fill='#2A9D8F'/><polygon points='160,115 170,76 190,108' fill='#E2703A'/><polygon points='165,108 171,86 184,106' fill='#4A3222'/><polygon points='224,115 214,76 194,108' fill='#E2703A'/><polygon points='219,108 213,86 200,106' fill='#4A3222'/><ellipse cx='192' cy='136' rx='38' ry='32' fill='#E2703A'/><path d='M154 140 Q174 170 192 164 Q210 170 230 140 Q210 146 192 152 Q174 146 154 140 Z' fill='#FFF8F0'/><circle cx='178' cy='130' r='4' fill='#2F2419'/><circle cx='206' cy='130' r='4' fill='#2F2419'/><ellipse cx='192' cy='144' rx='6' ry='4.5' fill='#2F2419'/><path d='M185 152 Q192 158 199 152' fill='none' stroke='#2F2419' stroke-width='2.5' stroke-linecap='round'/><path d='M162 110 Q192 78 222 110 Z' fill='#E63946'/><circle cx='192' cy='84' r='9' fill='#FFFFFF'/></g></svg>",
+      "vocabulary": [
+        {
+          "article": "der",
+          "word": "Schnee",
+          "translationEn": "snow",
+          "emoji": "❄️"
+        },
+        {
+          "article": "die",
+          "word": "Mütze",
+          "translationEn": "winter hat / beanie",
+          "emoji": "🧶"
+        },
+        {
+          "article": "der",
+          "word": "Handschuh",
+          "translationEn": "glove / mitten",
+          "emoji": "🧤"
+        },
+        {
+          "article": "der",
+          "word": "Schlitten",
+          "translationEn": "sled",
+          "emoji": "🛷"
+        }
+      ]
+    },
+    {
+      "id": "bruno-baer-velo",
+      "title": "Bruno der Bär und das rote Velo",
+      "titleEn": "Bruno the Bear and the Red Bike",
+      "animal": "Bär",
+      "animalEmoji": "🐻",
+      "theme": "Kindergarten",
+      "createdAt": "2026-11-22T12:00:00.000Z",
+      "sceneCount": 7,
+      "coverSvg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F0FF'/><circle cx='335' cy='58' r='32' fill='#FFD166'/><g class='kg-float'><ellipse cx='95' cy='60' rx='36' ry='18' fill='#FFFFFF'/><ellipse cx='120' cy='54' rx='26' ry='15' fill='#FFFFFF'/></g><path d='M0 215 Q120 175 240 205 T400 195 L400 300 L0 300 Z' fill='#A8D89A'/><path d='M0 245 Q200 225 400 250 L400 300 L0 300 Z' fill='#E9D5B5'/><circle cx='148' cy='235' r='30' fill='none' stroke='#3D352E' stroke-width='7'/><circle cx='252' cy='235' r='30' fill='none' stroke='#3D352E' stroke-width='7'/><circle cx='148' cy='235' r='6' fill='#E05A47'/><circle cx='252' cy='235' r='6' fill='#E05A47'/><path d='M148 235 L196 235 L234 190 L176 190 Z' fill='none' stroke='#E05A47' stroke-width='7' stroke-linejoin='round'/><path d='M252 235 L230 174 L248 170' fill='none' stroke='#E05A47' stroke-width='7' stroke-linecap='round'/><g class='kg-bob'><circle cx='178' cy='102' r='16' fill='#B57449'/><circle cx='178' cy='102' r='9' fill='#E6B896'/><circle cx='226' cy='102' r='16' fill='#B57449'/><circle cx='226' cy='102' r='9' fill='#E6B896'/><ellipse cx='202' cy='182' rx='30' ry='36' fill='#C48256'/><ellipse cx='202' cy='186' rx='18' ry='22' fill='#F4D7BE'/><circle cx='202' cy='132' r='34' fill='#C48256'/><path d='M168 124 Q202 86 236 124 Z' fill='#FFD166' stroke='#E6A800' stroke-width='3'/><ellipse cx='202' cy='142' rx='18' ry='14' fill='#F4D7BE'/><circle cx='190' cy='128' r='4' fill='#2F2419'/><circle cx='214' cy='128' r='4' fill='#2F2419'/><ellipse cx='202' cy='138' rx='6' ry='4.5' fill='#4A3222'/><path d='M195 147 Q202 153 209 147' fill='none' stroke='#4A3222' stroke-width='3' stroke-linecap='round'/><circle cx='180' cy='138' r='6' fill='#F29B8F' opacity='0.6'/><circle cx='224' cy='138' r='6' fill='#F29B8F' opacity='0.6'/></g></svg>",
+      "vocabulary": [
+        {
+          "article": "das",
+          "word": "Velo",
+          "translationEn": "bicycle (Swiss German)",
+          "emoji": "🚲"
+        },
+        {
+          "article": "der",
+          "word": "Helm",
+          "translationEn": "helmet",
+          "emoji": "⛑️"
+        },
+        {
+          "article": "der",
+          "word": "Rucksack",
+          "translationEn": "backpack",
+          "emoji": "🎒"
+        },
+        {
+          "article": "das",
+          "word": "Znüni",
+          "translationEn": "morning snack (Swiss)",
+          "emoji": "🍎"
+        }
+      ]
+    }
+  ]
+}

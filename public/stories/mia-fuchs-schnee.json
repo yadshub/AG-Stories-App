@@ -1,0 +1,124 @@
+{
+  "id": "mia-fuchs-schnee",
+  "title": "Mia der Fuchs im weissen Schnee",
+  "titleEn": "Mia the Fox in the White Snow",
+  "animal": "Fuchs",
+  "animalEmoji": "🦊",
+  "theme": "Schnee",
+  "createdAt": "2026-11-22T12:10:00.000Z",
+  "coverSvg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#CFE8FF'/><polygon points='30,220 135,90 240,220' fill='#A9C9E8'/><polygon points='110,121 135,90 160,121 146,115 135,125 124,115' fill='#FFFFFF'/><polygon points='175,220 285,80 395,220' fill='#94B9DF'/><polygon points='258,114 285,80 312,114 297,108 285,118 273,108' fill='#FFFFFF'/><path d='M0 212 Q160 185 400 215 L400 300 L0 300 Z' fill='#FFFFFF'/><g class='kg-float'><circle cx='65' cy='60' r='5' fill='#FFFFFF'/><circle cx='185' cy='45' r='4' fill='#FFFFFF'/><circle cx='330' cy='68' r='5.5' fill='#FFFFFF'/><circle cx='245' cy='105' r='4' fill='#FFFFFF'/></g><g class='kg-bob'><ellipse cx='248' cy='218' rx='36' ry='18' fill='#E2703A' transform='rotate(-15 248 218)'/><ellipse cx='274' cy='210' rx='14' ry='10' fill='#FFF8F0' transform='rotate(-15 274 210)'/><ellipse cx='192' cy='204' rx='34' ry='40' fill='#E2703A'/><ellipse cx='192' cy='210' rx='20' ry='26' fill='#FFF8F0'/><rect x='164' y='168' width='56' height='14' rx='7' fill='#2A9D8F'/><polygon points='160,115 170,76 190,108' fill='#E2703A'/><polygon points='165,108 171,86 184,106' fill='#4A3222'/><polygon points='224,115 214,76 194,108' fill='#E2703A'/><polygon points='219,108 213,86 200,106' fill='#4A3222'/><ellipse cx='192' cy='136' rx='38' ry='32' fill='#E2703A'/><path d='M154 140 Q174 170 192 164 Q210 170 230 140 Q210 146 192 152 Q174 146 154 140 Z' fill='#FFF8F0'/><circle cx='178' cy='130' r='4' fill='#2F2419'/><circle cx='206' cy='130' r='4' fill='#2F2419'/><ellipse cx='192' cy='144' rx='6' ry='4.5' fill='#2F2419'/><path d='M185 152 Q192 158 199 152' fill='none' stroke='#2F2419' stroke-width='2.5' stroke-linecap='round'/><path d='M162 110 Q192 78 222 110 Z' fill='#E63946'/><circle cx='192' cy='84' r='9' fill='#FFFFFF'/></g></svg>",
+  "vocabulary": [
+    {
+      "article": "der",
+      "word": "Schnee",
+      "translationEn": "snow",
+      "emoji": "❄️"
+    },
+    {
+      "article": "die",
+      "word": "Mütze",
+      "translationEn": "winter hat / beanie",
+      "emoji": "🧶"
+    },
+    {
+      "article": "der",
+      "word": "Handschuh",
+      "translationEn": "glove / mitten",
+      "emoji": "🧤"
+    },
+    {
+      "article": "der",
+      "word": "Schlitten",
+      "translationEn": "sled",
+      "emoji": "🛷"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "textDe": "Schau mal aus dem Fenster! Draussen fällt weisser Schnee auf die Berge.",
+      "textEn": "Look out the window! Outside white snow is falling on the mountains.",
+      "highlightWords": ["Schnee"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#F9E8D2'/><rect x='75' y='30' width='250' height='155' rx='14' fill='#CBE4FA' stroke='#B57449' stroke-width='9'/><polygon points='80,180 165,86 245,180' fill='#94B9DF'/><polygon points='144,110 165,86 186,110' fill='#FFFFFF'/><polygon points='185,180 265,78 320,180' fill='#7FA8D4'/><polygon points='245,104 265,78 286,104' fill='#FFFFFF'/><g class='kg-float'><circle cx='120' cy='65' r='4.5' fill='#FFFFFF'/><circle cx='205' cy='58' r='4' fill='#FFFFFF'/><circle cx='290' cy='72' r='5' fill='#FFFFFF'/><circle cx='155' cy='125' r='4' fill='#FFFFFF'/><circle cx='255' cy='135' r='4.5' fill='#FFFFFF'/></g><line x1='200' y1='30' x2='200' y2='185' stroke='#B57449' stroke-width='6'/><line x1='75' y1='108' x2='325' y2='108' stroke='#B57449' stroke-width='6'/><g class='kg-bob'><polygon points='165,204 176,166 194,198' fill='#E2703A'/><polygon points='235,204 224,166 206,198' fill='#E2703A'/><ellipse cx='200' cy='226' rx='38' ry='32' fill='#E2703A'/><path d='M162 230 Q180 258 200 252 Q220 258 238 230 Q218 238 200 242 Q182 238 162 230 Z' fill='#FFF8F0'/><circle cx='186' cy='220' r='4' fill='#2F2419'/><circle cx='214' cy='220' r='4' fill='#2F2419'/><ellipse cx='200' cy='234' rx='6' ry='4.5' fill='#2F2419'/></g></svg>"
+    },
+    {
+      "index": 2,
+      "textDe": "Mia der Fuchs zieht ihre warme rote Mütze und zwei Handschuhe an. Jetzt ist ihr schön warm.",
+      "textEn": "Mia the fox puts on her warm red beanie and two mittens. Now she is nice and warm.",
+      "highlightWords": ["Mütze", "Handschuh"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#FFF3E2'/><circle cx='200' cy='160' r='112' fill='#E3F2FD'/><g class='kg-bob'><ellipse cx='200' cy='218' rx='42' ry='46' fill='#E2703A'/><ellipse cx='200' cy='224' rx='24' ry='30' fill='#FFF8F0'/><rect x='166' y='176' width='68' height='16' rx='8' fill='#2A9D8F'/><rect x='210' y='184' width='16' height='36' rx='7' fill='#2A9D8F'/><polygon points='162,118 174,78 194,110' fill='#E2703A'/><polygon points='238,118 226,78 206,110' fill='#E2703A'/><ellipse cx='200' cy='140' rx='44' ry='36' fill='#E2703A'/><path d='M156 144 Q180 178 200 170 Q220 178 244 144 Q220 154 200 158 Q180 154 156 144 Z' fill='#FFF8F0'/><path d='M162 114 Q200 70 238 114 Z' fill='#E63946'/><rect x='158' y='108' width='84' height='14' rx='7' fill='#C1121F'/><circle cx='200' cy='78' r='11' fill='#FFFFFF'/><circle cx='184' cy='135' r='4.5' fill='#2F2419'/><circle cx='216' cy='135' r='4.5' fill='#2F2419'/><ellipse cx='200' cy='148' rx='6.5' ry='4.5' fill='#2F2419'/><path d='M191 158 Q200 165 209 158' fill='none' stroke='#2F2419' stroke-width='3' stroke-linecap='round'/><circle cx='142' cy='212' r='16' fill='#E63946'/><circle cx='258' cy='212' r='16' fill='#E63946'/></g></svg>"
+    },
+    {
+      "index": 3,
+      "textDe": "Mia zieht ihren Holz-Schlitten den weissen Hügel hinauf. Schritt für Schritt!",
+      "textEn": "Mia pulls her wooden sled up the white hill. Step by step!",
+      "highlightWords": ["Schlitten"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#CFE8FF'/><path d='M0 270 Q200 190 400 115 L400 300 L0 300 Z' fill='#FFFFFF'/><polygon points='62,210 88,145 114,210' fill='#2D6A4F'/><polygon points='54,230 88,168 122,230' fill='#40916C'/><g class='kg-bob'><ellipse cx='236' cy='174' rx='24' ry='28' fill='#E2703A'/><rect x='216' y='148' width='40' height='10' rx='5' fill='#2A9D8F'/><ellipse cx='242' cy='128' rx='26' ry='22' fill='#E2703A'/><path d='M220 114 Q242 90 264 114 Z' fill='#E63946'/><circle cx='242' cy='94' r='7' fill='#FFFFFF'/><circle cx='252' cy='124' r='3.5' fill='#2F2419'/><ellipse cx='264' cy='131' rx='5' ry='3.5' fill='#2F2419'/><line x1='212' y1='176' x2='156' y2='218' stroke='#8D5B3E' stroke-width='3.5'/></g><g transform='rotate(-20 132 232)'><rect x='94' y='216' width='76' height='12' rx='5' fill='#C98A55'/><path d='M90 242 L176 242 Q186 242 184 226' fill='none' stroke='#8D5B3E' stroke-width='6' stroke-linecap='round'/><line x1='110' y1='228' x2='110' y2='242' stroke='#8D5B3E' stroke-width='5'/><line x1='154' y1='228' x2='154' y2='242' stroke='#8D5B3E' stroke-width='5'/></g></svg>"
+    },
+    {
+      "index": 4,
+      "textDe": "Huiii! Mia saust mit dem Schlitten durch den Schnee. Das macht riesigen Spass!",
+      "textEn": "Wheee! Mia zooms on the sled through the snow. That is huge fun!",
+      "highlightWords": ["Schlitten", "Schnee"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#CFE8FF'/><path d='M0 130 Q200 195 400 268 L400 300 L0 300 Z' fill='#FFFFFF'/><path d='M70 155 Q105 162 125 170' fill='none' stroke='#FFFFFF' stroke-width='5' stroke-linecap='round'/><path d='M55 180 Q95 186 115 194' fill='none' stroke='#FFFFFF' stroke-width='5' stroke-linecap='round'/><g class='kg-bob' transform='rotate(16 210 185)'><rect x='152' y='198' width='96' height='12' rx='5' fill='#C98A55'/><path d='M148 224 L254 224 Q266 224 262 206' fill='none' stroke='#8D5B3E' stroke-width='6' stroke-linecap='round'/><ellipse cx='164' cy='186' rx='24' ry='12' fill='#E2703A'/><ellipse cx='146' cy='182' rx='10' ry='7' fill='#FFF8F0'/><ellipse cx='202' cy='174' rx='24' ry='24' fill='#E2703A'/><rect x='184' y='152' width='38' height='9' rx='4' fill='#2A9D8F'/><ellipse cx='208' cy='132' rx='26' ry='22' fill='#E2703A'/><path d='M184 118 Q208 92 232 118 Z' fill='#E63946'/><circle cx='208' cy='96' r='7' fill='#FFFFFF'/><circle cx='218' cy='128' r='3.5' fill='#2F2419'/><ellipse cx='230' cy='135' rx='5' ry='3.5' fill='#2F2419'/><path d='M214 142 Q222 148 228 140' fill='none' stroke='#2F2419' stroke-width='2.5' stroke-linecap='round'/></g><circle cx='140' cy='218' r='7' fill='#FFFFFF'/><circle cx='120' cy='208' r='5' fill='#FFFFFF'/></svg>"
+    },
+    {
+      "index": 5,
+      "textDe": "Oh je! Mia schaut auf ihre Pfote. Ein roter Handschuh ist weg!",
+      "textEn": "Oh dear! Mia looks at her paw. One red mitten is missing!",
+      "highlightWords": ["Handschuh"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D7ECFF'/><path d='M0 218 Q200 198 400 220 L400 300 L0 300 Z' fill='#FFFFFF'/><ellipse cx='200' cy='206' rx='36' ry='42' fill='#E2703A'/><ellipse cx='200' cy='212' rx='21' ry='26' fill='#FFF8F0'/><rect x='172' y='170' width='56' height='14' rx='7' fill='#2A9D8F'/><polygon points='166,118 176,82 196,112' fill='#E2703A'/><polygon points='234,118 224,82 204,112' fill='#E2703A'/><ellipse cx='200' cy='138' rx='38' ry='32' fill='#E2703A'/><path d='M162 142 Q180 172 200 166 Q220 172 238 142 Q218 148 200 154 Q182 148 162 142 Z' fill='#FFF8F0'/><path d='M168 114 Q200 80 232 114 Z' fill='#E63946'/><circle cx='200' cy='86' r='9' fill='#FFFFFF'/><circle cx='186' cy='134' r='4.2' fill='#2F2419'/><circle cx='214' cy='134' r='4.2' fill='#2F2419'/><ellipse cx='200' cy='146' rx='5.5' ry='4' fill='#2F2419'/><circle cx='200' cy='156' r='4.5' fill='#2F2419'/><circle cx='150' cy='202' r='14' fill='#E63946'/><circle cx='252' cy='202' r='12' fill='#4A3222'/><text x='274' y='182' font-size='30' font-weight='bold' fill='#E05A47'>?</text></svg>"
+    },
+    {
+      "index": 6,
+      "textDe": "Piep, piep! Ein kleiner Vogel ruft neben der Tanne. Da liegt der rote Handschuh im Schnee!",
+      "textEn": "Cheep, cheep! A little bird calls next to the pine tree. There lies the red mitten in the snow!",
+      "highlightWords": ["Handschuh", "Schnee"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#CFE8FF'/><path d='M0 212 Q190 190 400 212 L400 300 L0 300 Z' fill='#FFFFFF'/><rect x='288' y='185' width='20' height='34' fill='#7F5539'/><polygon points='242,192 298,118 354,192' fill='#2D6A4F'/><polygon points='254,154 298,92 342,154' fill='#40916C'/><ellipse cx='258' cy='234' rx='18' ry='14' fill='#E63946' transform='rotate(-15 258 234)'/><circle cx='244' cy='224' r='7' fill='#E63946'/><g class='kg-float'><ellipse cx='222' cy='168' rx='18' ry='14' fill='#3B82F6'/><circle cx='236' cy='160' r='11' fill='#3B82F6'/><polygon points='246,158 258,162 246,166' fill='#FFD166'/><circle cx='238' cy='158' r='2.5' fill='#2F2419'/></g><g class='kg-bob'><ellipse cx='120' cy='210' rx='30' ry='34' fill='#E2703A'/><rect x='98' y='178' width='44' height='11' rx='5' fill='#2A9D8F'/><ellipse cx='124' cy='152' rx='32' ry='26' fill='#E2703A'/><path d='M98 132 Q124 104 150 132 Z' fill='#E63946'/><circle cx='124' cy='108' r='8' fill='#FFFFFF'/><circle cx='134' cy='148' r='3.5' fill='#2F2419'/><ellipse cx='146' cy='156' rx='5' ry='3.5' fill='#2F2419'/><path d='M132 162 Q138 168 145 162' fill='none' stroke='#2F2419' stroke-width='2.5' stroke-linecap='round'/></g></svg>"
+    },
+    {
+      "index": 7,
+      "textDe": "Danke, lieber Vogel! Mia zieht ihren Handschuh wieder an und trinkt zu Hause warmen Tee.",
+      "textEn": "Thank you, dear bird! Mia puts her mitten back on and drinks warm tea at home.",
+      "highlightWords": ["Handschuh"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#FFEBD2'/><rect x='0' y='224' width='400' height='76' fill='#D9A87E'/><g class='kg-bob'><polygon points='146,120 158,84 176,114' fill='#E2703A'/><polygon points='214,120 202,84 184,114' fill='#E2703A'/><ellipse cx='180' cy='204' rx='38' ry='42' fill='#E2703A'/><ellipse cx='180' cy='210' rx='22' ry='26' fill='#FFF8F0'/><ellipse cx='180' cy='142' rx='38' ry='32' fill='#E2703A'/><path d='M142 146 Q160 176 180 170 Q200 176 218 146 Q198 152 180 158 Q162 152 142 146 Z' fill='#FFF8F0'/><path d='M162 136 Q168 130 174 136' fill='none' stroke='#2F2419' stroke-width='3.5' stroke-linecap='round'/><path d='M186 136 Q192 130 198 136' fill='none' stroke='#2F2419' stroke-width='3.5' stroke-linecap='round'/><ellipse cx='180' cy='150' rx='5.5' ry='4' fill='#2F2419'/><path d='M172 158 Q180 166 188 158' fill='none' stroke='#2F2419' stroke-width='3' stroke-linecap='round'/><circle cx='152' cy='150' r='7' fill='#F29B8F' opacity='0.6'/><circle cx='208' cy='150' r='7' fill='#F29B8F' opacity='0.6'/></g><rect x='244' y='182' width='44' height='46' rx='10' fill='#2A9D8F'/><path d='M288 194 Q304 194 304 206 Q304 218 288 218' fill='none' stroke='#2A9D8F' stroke-width='6'/><g class='kg-float'><path d='M258 172 Q252 158 260 148' fill='none' stroke='#FFFFFF' stroke-width='4' stroke-linecap='round'/><path d='M274 172 Q268 158 276 148' fill='none' stroke='#FFFFFF' stroke-width='4' stroke-linecap='round'/></g></svg>"
+    }
+  ],
+  "questions": [
+    {
+      "type": "recall",
+      "questionDe": "Welche Farbe hat die Mütze von Mia?",
+      "questionEn": "What color is Mia's winter hat?",
+      "answerDe": "Die Mütze von Mia ist rot.",
+      "answerEn": "Mia's winter hat is red."
+    },
+    {
+      "type": "recall",
+      "questionDe": "Was verliert Mia im Schnee?",
+      "questionEn": "What does Mia lose in the snow?",
+      "answerDe": "Sie verliert einen roten Handschuh.",
+      "answerEn": "She loses one red mitten."
+    },
+    {
+      "type": "recall",
+      "questionDe": "Wer hilft Mia, den Handschuh wieder zu finden?",
+      "questionEn": "Who helps Mia find her mitten again?",
+      "answerDe": "Ein kleiner blauer Vogel neben der Tanne hilft ihr.",
+      "answerEn": "A little blue bird next to the pine tree helps her."
+    },
+    {
+      "type": "vocab",
+      "questionDe": "Womit saust Mia den weissen Hügel hinunter?",
+      "questionEn": "What does Mia zoom down the white hill on?",
+      "answerDe": "Sie saust mit dem Schlitten (der Schlitten).",
+      "answerEn": "She zooms down on the sled (der Schlitten)."
+    },
+    {
+      "type": "open",
+      "questionDe": "Was spielst du am liebsten draussen im Schnee?",
+      "questionEn": "What do you like to play outside in the snow the most?",
+      "answerDe": "Zum Beispiel Schlitten fahren oder einen Schneemann bauen!",
+      "answerEn": "For example sledding or building a snowman!"
+    }
+  ]
+}

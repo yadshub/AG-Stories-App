@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#FDF6EC" />
+  <circle cx="256" cy="256" r="210" fill="#FFE6C7" />
+  <!-- Open storybook base -->
+  <path d="M92 342 Q174 316 256 346 Q338 316 420 342 L420 402 Q338 378 256 406 Q174 378 92 402 Z" fill="#D96B38" />
+  <path d="M108 334 Q182 310 256 338 L256 392 Q182 366 108 388 Z" fill="#FFFCF7" />
+  <path d="M404 334 Q330 310 256 338 L256 392 Q330 366 404 388 Z" fill="#FFF7EB" />
+  <!-- Cute friendly bear peeking over the book -->
+  <circle cx="176" cy="170" r="44" fill="#B57449" />
+  <circle cx="176" cy="170" r="24" fill="#E6B896" />
+  <circle cx="336" cy="170" r="44" fill="#B57449" />
+  <circle cx="336" cy="170" r="24" fill="#E6B896" />
+  <circle cx="256" cy="238" r="102" fill="#C48256" />
+  <ellipse cx="256" cy="264" rx="52" ry="40" fill="#F4D7BE" />
+  <circle cx="218" cy="222" r="11" fill="#2F2419" />
+  <circle cx="222" cy="218" r="3.5" fill="#FFFFFF" />
+  <circle cx="294" cy="222" r="11" fill="#2F2419" />
+  <circle cx="298" cy="218" r="3.5" fill="#FFFFFF" />
+  <ellipse cx="256" cy="252" rx="16" ry="12" fill="#4A3222" />
+  <path d="M238 274 Q256 290 274 274" fill="none" stroke="#4A3222" stroke-width="7" stroke-linecap="round" />
+  <circle cx="192" cy="254" r="16" fill="#F29B8F" opacity="0.55" />
+  <circle cx="320" cy="254" r="16" fill="#F29B8F" opacity="0.55" />
+  <!-- Tiny stars -->
+  <circle cx="116" cy="134" r="10" fill="#F5B700" />
+  <circle cx="398" cy="128" r="8" fill="#63B3ED" />
+  <circle cx="410" cy="220" r="7" fill="#68D391" />
+</svg>

@@ -1,0 +1,124 @@
+{
+  "id": "bruno-baer-velo",
+  "title": "Bruno der Bär und das rote Velo",
+  "titleEn": "Bruno the Bear and the Red Bike",
+  "animal": "Bär",
+  "animalEmoji": "🐻",
+  "theme": "Kindergarten",
+  "createdAt": "2026-11-22T12:00:00.000Z",
+  "coverSvg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F0FF'/><circle cx='335' cy='58' r='32' fill='#FFD166'/><g class='kg-float'><ellipse cx='95' cy='60' rx='36' ry='18' fill='#FFFFFF'/><ellipse cx='120' cy='54' rx='26' ry='15' fill='#FFFFFF'/></g><path d='M0 215 Q120 175 240 205 T400 195 L400 300 L0 300 Z' fill='#A8D89A'/><path d='M0 245 Q200 225 400 250 L400 300 L0 300 Z' fill='#E9D5B5'/><circle cx='148' cy='235' r='30' fill='none' stroke='#3D352E' stroke-width='7'/><circle cx='252' cy='235' r='30' fill='none' stroke='#3D352E' stroke-width='7'/><circle cx='148' cy='235' r='6' fill='#E05A47'/><circle cx='252' cy='235' r='6' fill='#E05A47'/><path d='M148 235 L196 235 L234 190 L176 190 Z' fill='none' stroke='#E05A47' stroke-width='7' stroke-linejoin='round'/><path d='M252 235 L230 174 L248 170' fill='none' stroke='#E05A47' stroke-width='7' stroke-linecap='round'/><g class='kg-bob'><circle cx='178' cy='102' r='16' fill='#B57449'/><circle cx='178' cy='102' r='9' fill='#E6B896'/><circle cx='226' cy='102' r='16' fill='#B57449'/><circle cx='226' cy='102' r='9' fill='#E6B896'/><ellipse cx='202' cy='182' rx='30' ry='36' fill='#C48256'/><ellipse cx='202' cy='186' rx='18' ry='22' fill='#F4D7BE'/><circle cx='202' cy='132' r='34' fill='#C48256'/><path d='M168 124 Q202 86 236 124 Z' fill='#FFD166' stroke='#E6A800' stroke-width='3'/><ellipse cx='202' cy='142' rx='18' ry='14' fill='#F4D7BE'/><circle cx='190' cy='128' r='4' fill='#2F2419'/><circle cx='214' cy='128' r='4' fill='#2F2419'/><ellipse cx='202' cy='138' rx='6' ry='4.5' fill='#4A3222'/><path d='M195 147 Q202 153 209 147' fill='none' stroke='#4A3222' stroke-width='3' stroke-linecap='round'/><circle cx='180' cy='138' r='6' fill='#F29B8F' opacity='0.6'/><circle cx='224' cy='138' r='6' fill='#F29B8F' opacity='0.6'/></g></svg>",
+  "vocabulary": [
+    {
+      "article": "das",
+      "word": "Velo",
+      "translationEn": "bicycle (Swiss German)",
+      "emoji": "🚲"
+    },
+    {
+      "article": "der",
+      "word": "Helm",
+      "translationEn": "helmet",
+      "emoji": "⛑️"
+    },
+    {
+      "article": "der",
+      "word": "Rucksack",
+      "translationEn": "backpack",
+      "emoji": "🎒"
+    },
+    {
+      "article": "das",
+      "word": "Znüni",
+      "translationEn": "morning snack (Swiss)",
+      "emoji": "🍎"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "textDe": "Guten Morgen! Die Sonne scheint. Bruno der kleine Bär ist wach und freut sich auf den Kindergarten.",
+      "textEn": "Good morning! The sun is shining. Bruno the little bear is awake and excited for kindergarten.",
+      "highlightWords": [],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#FFF1DC'/><rect x='245' y='35' width='115' height='105' rx='14' fill='#CBEBFF' stroke='#C9986B' stroke-width='7'/><circle cx='325' cy='70' r='22' fill='#FFD166'/><line x1='302' y1='35' x2='302' y2='140' stroke='#C9986B' stroke-width='5'/><line x1='245' y1='88' x2='360' y2='88' stroke='#C9986B' stroke-width='5'/><rect x='0' y='230' width='400' height='70' fill='#E8C9A0'/><rect x='35' y='195' width='185' height='55' rx='16' fill='#8ECAE6'/><rect x='25' y='165' width='22' height='95' rx='8' fill='#B57449'/><ellipse cx='82' cy='192' rx='30' ry='14' fill='#FFFFFF'/><g class='kg-bob'><circle cx='116' cy='112' r='16' fill='#B57449'/><circle cx='116' cy='112' r='9' fill='#E6B896'/><circle cx='168' cy='112' r='16' fill='#B57449'/><circle cx='168' cy='112' r='9' fill='#E6B896'/><ellipse cx='142' cy='192' rx='36' ry='34' fill='#C48256'/><circle cx='142' cy='144' r='36' fill='#C48256'/><ellipse cx='142' cy='154' rx='19' ry='14' fill='#F4D7BE'/><circle cx='129' cy='139' r='4.2' fill='#2F2419'/><circle cx='155' cy='139' r='4.2' fill='#2F2419'/><ellipse cx='142' cy='149' rx='6' ry='4.5' fill='#4A3222'/><path d='M134 159 Q142 167 150 159' fill='none' stroke='#4A3222' stroke-width='3' stroke-linecap='round'/><circle cx='118' cy='149' r='6.5' fill='#F29B8F' opacity='0.6'/><circle cx='166' cy='149' r='6.5' fill='#F29B8F' opacity='0.6'/><path d='M104 172 Q86 150 96 136' fill='none' stroke='#C48256' stroke-width='15' stroke-linecap='round'/><path d='M180 172 Q198 150 188 136' fill='none' stroke='#C48256' stroke-width='15' stroke-linecap='round'/></g></svg>"
+    },
+    {
+      "index": 2,
+      "textDe": "Bruno packt seinen blauen Rucksack. Hinein kommt ein knackiger Apfel für das Znüni.",
+      "textEn": "Bruno packs his blue backpack. Inside goes a crunchy apple for his morning snack.",
+      "highlightWords": ["Rucksack", "Znüni"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#FDF2E3'/><rect x='0' y='215' width='400' height='85' fill='#E5C399'/><rect x='40' y='195' width='320' height='22' rx='8' fill='#C9986B'/><g class='kg-bob'><circle cx='116' cy='96' r='16' fill='#B57449'/><circle cx='116' cy='96' r='9' fill='#E6B896'/><circle cx='168' cy='96' r='16' fill='#B57449'/><circle cx='168' cy='96' r='9' fill='#E6B896'/><ellipse cx='142' cy='180' rx='36' ry='40' fill='#C48256'/><ellipse cx='142' cy='184' rx='22' ry='26' fill='#F4D7BE'/><circle cx='142' cy='128' r='36' fill='#C48256'/><ellipse cx='142' cy='138' rx='19' ry='14' fill='#F4D7BE'/><circle cx='129' cy='123' r='4' fill='#2F2419'/><circle cx='155' cy='123' r='4' fill='#2F2419'/><ellipse cx='142' cy='133' rx='6' ry='4.5' fill='#4A3222'/><path d='M134 143 Q142 150 150 143' fill='none' stroke='#4A3222' stroke-width='3' stroke-linecap='round'/><circle cx='118' cy='134' r='6' fill='#F29B8F' opacity='0.6'/><circle cx='166' cy='134' r='6' fill='#F29B8F' opacity='0.6'/></g><rect x='232' y='118' width='86' height='92' rx='24' fill='#3B82F6'/><rect x='246' y='158' width='58' height='38' rx='12' fill='#60A5FA'/><path d='M255 118 Q275 94 295 118' fill='none' stroke='#1D4ED8' stroke-width='8' stroke-linecap='round'/><circle cx='210' cy='175' r='18' fill='#E63946'/><path d='M210 157 Q214 146 220 148' fill='none' stroke='#6B4423' stroke-width='3.5' stroke-linecap='round'/><ellipse cx='222' cy='154' rx='9' ry='5' fill='#52B788' transform='rotate(-25 222 154)'/></svg>"
+    },
+    {
+      "index": 3,
+      "textDe": "Vor der Tür steht sein rotes Velo. Es glänzt in der Sonne!",
+      "textEn": "In front of the door stands his red bicycle. It shines in the sun!",
+      "highlightWords": ["Velo"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F0FF'/><circle cx='62' cy='58' r='28' fill='#FFD166'/><rect x='230' y='88' width='140' height='135' rx='8' fill='#FFF3E0'/><polygon points='216,94 300,32 384,94' fill='#D96B38'/><rect x='278' y='140' width='46' height='83' rx='8' fill='#A66E44'/><circle cx='314' cy='184' r='4' fill='#FFD166'/><rect x='0' y='218' width='400' height='82' fill='#A8D89A'/><path d='M0 248 L400 248 L400 300 L0 300 Z' fill='#E9D5B5'/><circle cx='120' cy='234' r='32' fill='none' stroke='#3D352E' stroke-width='7'/><circle cx='230' cy='234' r='32' fill='none' stroke='#3D352E' stroke-width='7'/><circle cx='120' cy='234' r='6' fill='#E05A47'/><circle cx='230' cy='234' r='6' fill='#E05A47'/><path d='M120 234 L172 234 L212 186 L152 186 Z' fill='none' stroke='#E05A47' stroke-width='7' stroke-linejoin='round'/><path d='M230 234 L208 170 L226 164' fill='none' stroke='#E05A47' stroke-width='7' stroke-linecap='round'/><rect x='136' y='178' width='32' height='10' rx='5' fill='#3D352E'/><g class='kg-float'><polygon points='176,120 180,132 192,136 180,140 176,152 172,140 160,136 172,132' fill='#FFD166'/></g></svg>"
+    },
+    {
+      "index": 4,
+      "textDe": "Zuerst setzt Bruno seinen gelben Helm auf. Klick! Jetzt ist sein Kopf sicher geschützt.",
+      "textEn": "First Bruno puts on his yellow helmet. Click! Now his head is safely protected.",
+      "highlightWords": ["Helm"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#E4F5E8'/><circle cx='200' cy='155' r='115' fill='#FFF6E5'/><circle cx='146' cy='102' r='22' fill='#B57449'/><circle cx='146' cy='102' r='12' fill='#E6B896'/><circle cx='254' cy='102' r='22' fill='#B57449'/><circle cx='254' cy='102' r='12' fill='#E6B896'/><ellipse cx='200' cy='248' rx='62' ry='48' fill='#C48256'/><ellipse cx='200' cy='254' rx='36' ry='32' fill='#F4D7BE'/><circle cx='200' cy='154' r='58' fill='#C48256'/><path d='M138 140 Q200 66 262 140 Z' fill='#FFD166' stroke='#E6A800' stroke-width='5'/><rect x='184' y='102' width='32' height='8' rx='4' fill='#FFF6E5'/><path d='M156 144 Q165 204 200 206 Q235 204 244 144' fill='none' stroke='#3B82F6' stroke-width='6' stroke-linecap='round'/><rect x='190' y='198' width='20' height='14' rx='4' fill='#1D4ED8'/><ellipse cx='200' cy='172' rx='28' ry='21' fill='#F4D7BE'/><circle cx='178' cy='150' r='6' fill='#2F2419'/><circle cx='222' cy='150' r='6' fill='#2F2419'/><ellipse cx='200' cy='165' rx='9' ry='6.5' fill='#4A3222'/><path d='M188 180 Q200 190 212 180' fill='none' stroke='#4A3222' stroke-width='4' stroke-linecap='round'/><circle cx='162' cy='166' r='9' fill='#F29B8F' opacity='0.6'/><circle cx='238' cy='166' r='9' fill='#F29B8F' opacity='0.6'/></svg>"
+    },
+    {
+      "index": 5,
+      "textDe": "Bruno fährt mit dem Velo den Weg entlang. Huiii, der Wind kitzelt an seiner Nase!",
+      "textEn": "Bruno rides his bicycle along the path. Wheee, the wind tickles his nose!",
+      "highlightWords": ["Velo"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F0FF'/><g class='kg-float'><ellipse cx='90' cy='58' rx='32' ry='15' fill='#FFFFFF'/><ellipse cx='295' cy='48' rx='38' ry='16' fill='#FFFFFF'/></g><path d='M0 205 Q100 155 210 195 T400 185 L400 300 L0 300 Z' fill='#9ED58E'/><path d='M0 240 L400 240 L400 300 L0 300 Z' fill='#E9D5B5'/><g class='kg-sway'><rect x='46' y='152' width='12' height='48' fill='#8D5B3E'/><circle cx='52' cy='138' r='26' fill='#52B788'/></g><g class='kg-sway'><rect x='338' y='148' width='12' height='48' fill='#8D5B3E'/><circle cx='344' cy='134' r='28' fill='#40916C'/></g><path d='M55 182 Q82 182 95 174' fill='none' stroke='#FFFFFF' stroke-width='4' stroke-linecap='round'/><path d='M45 202 Q75 202 88 196' fill='none' stroke='#FFFFFF' stroke-width='4' stroke-linecap='round'/><g class='kg-bob'><circle cx='165' cy='240' r='26' fill='none' stroke='#3D352E' stroke-width='6'/><circle cx='258' cy='240' r='26' fill='none' stroke='#3D352E' stroke-width='6'/><path d='M165 240 L208 240 L242 200 L190 200 Z' fill='none' stroke='#E05A47' stroke-width='6' stroke-linejoin='round'/><path d='M258 240 L238 184 L254 180' fill='none' stroke='#E05A47' stroke-width='6' stroke-linecap='round'/><rect x='158' y='162' width='26' height='36' rx='10' fill='#3B82F6'/><ellipse cx='200' cy='186' rx='26' ry='30' fill='#C48256'/><circle cx='206' cy='140' r='29' fill='#C48256'/><path d='M176 134 Q206 102 236 134 Z' fill='#FFD166' stroke='#E6A800' stroke-width='3'/><ellipse cx='216' cy='148' rx='14' ry='11' fill='#F4D7BE'/><circle cx='214' cy='136' r='3.5' fill='#2F2419'/><ellipse cx='226' cy='144' rx='5' ry='3.5' fill='#4A3222'/><path d='M214 153 Q220 158 226 153' fill='none' stroke='#4A3222' stroke-width='2.5' stroke-linecap='round'/></g></svg>"
+    },
+    {
+      "index": 6,
+      "textDe": "Klingeling! Bruno läutet die Glocke und winkt dem kleinen Frosch am Weg.",
+      "textEn": "Ring-ring! Bruno rings the bell and waves to the little frog by the path.",
+      "highlightWords": [],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F0FF'/><circle cx='338' cy='54' r='26' fill='#FFD166'/><path d='M0 210 Q180 185 400 208 L400 300 L0 300 Z' fill='#A8D89A'/><path d='M0 245 L400 245 L400 300 L0 300 Z' fill='#E9D5B5'/><circle cx='106' cy='240' r='26' fill='none' stroke='#3D352E' stroke-width='6'/><circle cx='196' cy='240' r='26' fill='none' stroke='#3D352E' stroke-width='6'/><path d='M106 240 L148 240 L180 202 L130 202 Z' fill='none' stroke='#E05A47' stroke-width='6' stroke-linejoin='round'/><path d='M196 240 L176 184 L194 180' fill='none' stroke='#E05A47' stroke-width='6' stroke-linecap='round'/><ellipse cx='144' cy='186' rx='25' ry='29' fill='#C48256'/><circle cx='148' cy='140' r='29' fill='#C48256'/><path d='M118 134 Q148 102 178 134 Z' fill='#FFD166' stroke='#E6A800' stroke-width='3'/><ellipse cx='156' cy='148' rx='14' ry='11' fill='#F4D7BE'/><circle cx='155' cy='137' r='3.5' fill='#2F2419'/><ellipse cx='164' cy='145' rx='5' ry='3.5' fill='#4A3222'/><path d='M168 172 Q196 156 202 138' fill='none' stroke='#C48256' stroke-width='12' stroke-linecap='round'/><path d='M210 158 Q220 150 226 160' fill='none' stroke='#E05A47' stroke-width='3' stroke-linecap='round'/><path d='M218 148 Q232 138 240 152' fill='none' stroke='#E05A47' stroke-width='3' stroke-linecap='round'/><g class='kg-bob'><ellipse cx='312' cy='234' rx='26' ry='20' fill='#52B788'/><circle cx='298' cy='214' r='9' fill='#52B788'/><circle cx='326' cy='214' r='9' fill='#52B788'/><circle cx='298' cy='214' r='4.5' fill='#FFFFFF'/><circle cx='326' cy='214' r='4.5' fill='#FFFFFF'/><circle cx='299' cy='214' r='2.5' fill='#2F2419'/><circle cx='327' cy='214' r='2.5' fill='#2F2419'/><path d='M300 236 Q312 246 324 236' fill='none' stroke='#1B4332' stroke-width='3' stroke-linecap='round'/></g></svg>"
+    },
+    {
+      "index": 7,
+      "textDe": "Angekommen im Kindergarten! Bruno stellt sein Velo ab und isst glücklich sein Znüni.",
+      "textEn": "Arrived at kindergarten! Bruno parks his bike and happily eats his morning snack.",
+      "highlightWords": ["Velo", "Znüni"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F0FF'/><circle cx='66' cy='56' r='26' fill='#FFD166'/><rect x='200' y='84' width='170' height='136' rx='10' fill='#FFE8CC'/><polygon points='188,90 285,34 382,90' fill='#E05A47'/><rect x='232' y='122' width='34' height='34' rx='6' fill='#BEE3F8' stroke='#C9986B' stroke-width='4'/><rect x='304' y='122' width='34' height='34' rx='6' fill='#BEE3F8' stroke='#C9986B' stroke-width='4'/><rect x='268' y='162' width='34' height='58' rx='6' fill='#457B9D'/><rect x='0' y='215' width='400' height='85' fill='#A8D89A'/><g class='kg-bob'><circle cx='106' cy='122' r='15' fill='#B57449'/><circle cx='106' cy='122' r='8' fill='#E6B896'/><circle cx='154' cy='122' r='15' fill='#B57449'/><circle cx='154' cy='122' r='8' fill='#E6B896'/><ellipse cx='130' cy='202' rx='33' ry='38' fill='#C48256'/><ellipse cx='130' cy='206' rx='20' ry='24' fill='#F4D7BE'/><circle cx='130' cy='152' r='33' fill='#C48256'/><ellipse cx='130' cy='162' rx='17' ry='13' fill='#F4D7BE'/><circle cx='118' cy='148' r='3.8' fill='#2F2419'/><circle cx='142' cy='148' r='3.8' fill='#2F2419'/><ellipse cx='130' cy='157' rx='5.5' ry='4' fill='#4A3222'/><path d='M122 167 Q130 175 138 167' fill='none' stroke='#4A3222' stroke-width='3' stroke-linecap='round'/><circle cx='108' cy='158' r='6' fill='#F29B8F' opacity='0.6'/><circle cx='152' cy='158' r='6' fill='#F29B8F' opacity='0.6'/><circle cx='164' cy='188' r='14' fill='#E63946'/><path d='M164 174 Q168 166 173 168' fill='none' stroke='#6B4423' stroke-width='3' stroke-linecap='round'/></g><circle cx='262' cy='246' r='18' fill='none' stroke='#3D352E' stroke-width='5'/><circle cx='326' cy='246' r='18' fill='none' stroke='#3D352E' stroke-width='5'/><path d='M262 246 L292 246 L312 220 L278 220 Z' fill='none' stroke='#E05A47' stroke-width='5'/></svg>"
+    }
+  ],
+  "questions": [
+    {
+      "type": "recall",
+      "questionDe": "Welche Farbe hat das Velo von Bruno?",
+      "questionEn": "What color is Bruno's bicycle?",
+      "answerDe": "Das Velo von Bruno ist rot.",
+      "answerEn": "Bruno's bicycle is red."
+    },
+    {
+      "type": "recall",
+      "questionDe": "Was packt Bruno in seinen Rucksack für das Znüni?",
+      "questionEn": "What does Bruno pack in his backpack for his morning snack?",
+      "answerDe": "Er packt einen knackigen Apfel ein.",
+      "answerEn": "He packs a crunchy apple."
+    },
+    {
+      "type": "recall",
+      "questionDe": "Welchem Tier winkt Bruno auf dem Weg zu?",
+      "questionEn": "Which animal does Bruno wave to along the way?",
+      "answerDe": "Er winkt dem kleinen grünen Frosch zu.",
+      "answerEn": "He waves to the little green frog."
+    },
+    {
+      "type": "vocab",
+      "questionDe": "Was setzt Bruno auf den Kopf, bevor er Velo fährt?",
+      "questionEn": "What does Bruno put on his head before riding his bike?",
+      "answerDe": "Er setzt den Helm auf (der Helm).",
+      "answerEn": "He puts on the helmet (der Helm)."
+    },
+    {
+      "type": "open",
+      "questionDe": "Was nimmst du am liebsten als Znüni in den Kindergarten mit?",
+      "questionEn": "What do you like best to bring as a morning snack to kindergarten?",
+      "answerDe": "Zum Beispiel einen Apfel, ein Rüebli oder Brot!",
+      "answerEn": "For example an apple, a carrot, or bread!"
+    }
+  ]
+}

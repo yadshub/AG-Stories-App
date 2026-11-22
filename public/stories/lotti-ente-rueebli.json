@@ -1,0 +1,124 @@
+{
+  "id": "lotti-ente-rueebli",
+  "title": "Lotti die Ente teilt das Rüebli",
+  "titleEn": "Lotti the Duck Shares the Carrot",
+  "animal": "Ente",
+  "animalEmoji": "🦆",
+  "theme": "Freunde",
+  "createdAt": "2026-11-22T12:20:00.000Z",
+  "coverSvg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F3FF'/><circle cx='336' cy='58' r='32' fill='#FFD166'/><path d='M0 206 Q200 182 400 206 L400 300 L0 300 Z' fill='#A8D89A'/><ellipse cx='200' cy='258' rx='155' ry='38' fill='#7CC6FE'/><g class='kg-bob'><ellipse cx='160' cy='204' rx='40' ry='28' fill='#F7C948'/><circle cx='184' cy='158' r='28' fill='#F7C948'/><path d='M180 132 Q186 118 194 130' fill='none' stroke='#F7C948' stroke-width='6' stroke-linecap='round'/><ellipse cx='212' cy='164' rx='16' ry='9' fill='#F08A24'/><circle cx='192' cy='152' r='4' fill='#2F2419'/><circle cx='184' cy='164' r='6' fill='#F29B8F' opacity='0.6'/><ellipse cx='154' cy='204' rx='22' ry='14' fill='#E9B824'/></g><g transform='rotate(-22 276 196)'><polygon points='254,196 306,184 306,208' fill='#F07124'/><path d='M306 196 L326 184 M306 196 L328 196 M306 196 L324 208' stroke='#40916C' stroke-width='5' stroke-linecap='round'/></g></svg>",
+  "vocabulary": [
+    {
+      "article": "das",
+      "word": "Rüebli",
+      "translationEn": "carrot (Swiss German)",
+      "emoji": "🥕"
+    },
+    {
+      "article": "der",
+      "word": "Teich",
+      "translationEn": "pond",
+      "emoji": "💧"
+    },
+    {
+      "article": "der",
+      "word": "Hase",
+      "translationEn": "rabbit / bunny",
+      "emoji": "🐰"
+    },
+    {
+      "article": "die",
+      "word": "Sonne",
+      "translationEn": "sun",
+      "emoji": "☀️"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "textDe": "Die warme Sonne lacht am Himmel. Lotti die gelbe Ente schwimmt fröhlich im Teich.",
+      "textEn": "The warm sun smiles in the sky. Lotti the yellow duck swims happily in the pond.",
+      "highlightWords": ["Sonne", "Teich"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F3FF'/><circle cx='76' cy='62' r='32' fill='#FFD166'/><g class='kg-float'><ellipse cx='286' cy='58' rx='36' ry='16' fill='#FFFFFF'/></g><path d='M0 190 Q200 170 400 190 L400 300 L0 300 Z' fill='#A8D89A'/><ellipse cx='200' cy='244' rx='168' ry='48' fill='#7CC6FE'/><path d='M92 252 Q112 246 132 252' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linecap='round'/><path d='M256 260 Q276 254 296 260' fill='none' stroke='#FFFFFF' stroke-width='3.5' stroke-linecap='round'/><g class='kg-bob'><ellipse cx='192' cy='218' rx='42' ry='26' fill='#F7C948'/><circle cx='216' cy='174' r='28' fill='#F7C948'/><ellipse cx='244' cy='180' rx='16' ry='9' fill='#F08A24'/><circle cx='224' cy='168' r='4' fill='#2F2419'/><circle cx='214' cy='180' r='6' fill='#F29B8F' opacity='0.6'/><ellipse cx='186' cy='218' rx='22' ry='13' fill='#E9B824'/></g></svg>"
+    },
+    {
+      "index": 2,
+      "textDe": "Plitsch, platsch! Lotti watschelt aus dem Teich auf die grüne Wiese.",
+      "textEn": "Splish, splash! Lotti waddles out of the pond onto the green meadow.",
+      "highlightWords": ["Teich"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F3FF'/><path d='M0 185 Q200 165 400 185 L400 300 L0 300 Z' fill='#A8D89A'/><ellipse cx='78' cy='252' rx='105' ry='40' fill='#7CC6FE'/><circle cx='120' cy='215' r='5' fill='#7CC6FE'/><circle cx='138' cy='204' r='4' fill='#7CC6FE'/><g class='kg-sway'><circle cx='322' cy='234' r='8' fill='#FFFFFF'/><circle cx='322' cy='234' r='3.5' fill='#FFD166'/><circle cx='356' cy='224' r='7' fill='#FFCAD4'/><circle cx='356' cy='224' r='3' fill='#FFD166'/></g><g class='kg-bob'><line x1='212' y1='222' x2='206' y2='244' stroke='#F08A24' stroke-width='6' stroke-linecap='round'/><line x1='234' y1='222' x2='240' y2='244' stroke='#F08A24' stroke-width='6' stroke-linecap='round'/><ellipse cx='222' cy='200' rx='38' ry='26' fill='#F7C948'/><circle cx='248' cy='158' r='27' fill='#F7C948'/><ellipse cx='274' cy='164' rx='15' ry='8.5' fill='#F08A24'/><circle cx='256' cy='152' r='4' fill='#2F2419'/><circle cx='246' cy='164' r='6' fill='#F29B8F' opacity='0.6'/><ellipse cx='216' cy='200' rx='20' ry='13' fill='#E9B824'/></g></svg>"
+    },
+    {
+      "index": 3,
+      "textDe": "Nanu, was liegt da im Gras? Lotti findet ein grosses, knackiges Rüebli!",
+      "textEn": "Wait, what is lying there in the grass? Lotti finds a big, crunchy carrot!",
+      "highlightWords": ["Rüebli"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F3FF'/><path d='M0 192 Q200 175 400 192 L400 300 L0 300 Z' fill='#A8D89A'/><g class='kg-bob'><line x1='128' y1='224' x2='124' y2='246' stroke='#F08A24' stroke-width='6' stroke-linecap='round'/><line x1='150' y1='224' x2='154' y2='246' stroke='#F08A24' stroke-width='6' stroke-linecap='round'/><ellipse cx='140' cy='202' rx='38' ry='26' fill='#F7C948'/><circle cx='168' cy='164' r='27' fill='#F7C948'/><ellipse cx='194' cy='172' rx='15' ry='8.5' fill='#F08A24'/><circle cx='176' cy='158' r='4' fill='#2F2419'/><circle cx='166' cy='170' r='6' fill='#F29B8F' opacity='0.6'/></g><g transform='rotate(-10 278 230)'><polygon points='234,230 318,214 318,246' fill='#F07124'/><path d='M318 230 L344 214 M318 230 L348 230 M318 230 L342 246' stroke='#40916C' stroke-width='6' stroke-linecap='round'/></g><polygon points='272,164 276,176 288,180 276,184 272,196 268,184 256,180 268,176' fill='#FFD166'/></svg>"
+    },
+    {
+      "index": 4,
+      "textDe": "Neben einem Baum sitzt ein kleiner Hase. Sein Bauch knurrt laut: Grummel, brummel!",
+      "textEn": "Next to a tree sits a little rabbit. His tummy rumbles loudly: Grumble, rumble!",
+      "highlightWords": ["Hase"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F3FF'/><path d='M0 198 Q200 182 400 198 L400 300 L0 300 Z' fill='#A8D89A'/><rect x='295' y='125' width='26' height='92' fill='#8D5B3E'/><circle cx='308' cy='105' r='54' fill='#52B788'/><g class='kg-bob'><ellipse cx='198' cy='116' rx='11' ry='32' fill='#D4B59E' transform='rotate(-12 198 116)'/><ellipse cx='198' cy='116' rx='5.5' ry='22' fill='#F7C6C7' transform='rotate(-12 198 116)'/><ellipse cx='228' cy='116' rx='11' ry='32' fill='#D4B59E' transform='rotate(12 228 116)'/><ellipse cx='228' cy='116' rx='5.5' ry='22' fill='#F7C6C7' transform='rotate(12 228 116)'/><ellipse cx='212' cy='214' rx='32' ry='36' fill='#D4B59E'/><ellipse cx='212' cy='218' rx='18' ry='22' fill='#F8EDE3'/><circle cx='212' cy='160' r='30' fill='#D4B59E'/><circle cx='201' cy='156' r='3.8' fill='#2F2419'/><circle cx='223' cy='156' r='3.8' fill='#2F2419'/><ellipse cx='212' cy='166' rx='5' ry='3.5' fill='#E5989B'/><path d='M204 176 Q212 171 220 176' fill='none' stroke='#4A3222' stroke-width='2.5' stroke-linecap='round'/><circle cx='244' cy='228' r='11' fill='#FFFFFF'/></g><path d='M162 214 Q152 222 162 230' fill='none' stroke='#E05A47' stroke-width='3' stroke-linecap='round'/><path d='M150 208 Q138 222 150 236' fill='none' stroke='#E05A47' stroke-width='3' stroke-linecap='round'/></svg>"
+    },
+    {
+      "index": 5,
+      "textDe": "«Möchtest du die Hälfte?», fragt Lotti lieb. Knack! Sie teilt das Rüebli in zwei Stücke.",
+      "textEn": "\"Would you like half?\" asks Lotti kindly. Snap! She breaks the carrot into two pieces.",
+      "highlightWords": ["Rüebli"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#FFF6E5'/><circle cx='200' cy='155' r='115' fill='#E9F7E4'/><g transform='rotate(-12 146 168)'><polygon points='102,168 182,150 182,186' fill='#F07124'/></g><g transform='rotate(12 248 168)'><rect x='208' y='150' width='68' height='36' rx='10' fill='#F07124'/><path d='M276 168 L306 150 M276 168 L312 168 M276 168 L306 186' stroke='#40916C' stroke-width='7' stroke-linecap='round'/></g><line x1='196' y1='114' x2='196' y2='136' stroke='#FFD166' stroke-width='5' stroke-linecap='round'/><line x1='174' y1='124' x2='184' y2='140' stroke='#FFD166' stroke-width='5' stroke-linecap='round'/><line x1='218' y1='124' x2='208' y2='140' stroke='#FFD166' stroke-width='5' stroke-linecap='round'/></svg>"
+    },
+    {
+      "index": 6,
+      "textDe": "Mampf, knusper, knack! Die Ente und der Hase essen zusammen das süsse Rüebli.",
+      "textEn": "Munch, crunch, snap! The duck and the rabbit eat the sweet carrot together.",
+      "highlightWords": ["Hase", "Rüebli"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#D9F3FF'/><circle cx='200' cy='58' r='28' fill='#FFD166'/><path d='M0 198 Q200 180 400 198 L400 300 L0 300 Z' fill='#A8D89A'/><g class='kg-bob'><ellipse cx='122' cy='214' rx='36' ry='24' fill='#F7C948'/><circle cx='144' cy='174' r='26' fill='#F7C948'/><ellipse cx='168' cy='180' rx='14' ry='8' fill='#F08A24'/><circle cx='152' cy='168' r='3.5' fill='#2F2419'/><circle cx='142' cy='180' r='5.5' fill='#F29B8F' opacity='0.6'/><polygon points='172,184 202,176 202,192' fill='#F07124'/></g><g class='kg-bob'><ellipse cx='262' cy='124' rx='10' ry='28' fill='#D4B59E' transform='rotate(-10 262 124)'/><ellipse cx='288' cy='124' rx='10' ry='28' fill='#D4B59E' transform='rotate(10 288 124)'/><ellipse cx='274' cy='214' rx='30' ry='34' fill='#D4B59E'/><circle cx='274' cy='164' r='28' fill='#D4B59E'/><circle cx='264' cy='160' r='3.5' fill='#2F2419'/><circle cx='284' cy='160' r='3.5' fill='#2F2419'/><ellipse cx='274' cy='170' rx='4.5' ry='3' fill='#E5989B'/><path d='M266 177 Q274 184 282 177' fill='none' stroke='#4A3222' stroke-width='2.5' stroke-linecap='round'/><rect x='228' y='182' width='34' height='14' rx='5' fill='#F07124'/></g></svg>"
+    },
+    {
+      "index": 7,
+      "textDe": "Jetzt sind Lotti und der Hase beste Freunde. Sie spielen bis am Abend am Teich unter der Sonne.",
+      "textEn": "Now Lotti and the rabbit are best friends. They play until evening by the pond under the sun.",
+      "highlightWords": ["Hase", "Teich", "Sonne"],
+      "svg": "<svg viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='#FFE5C4'/><circle cx='200' cy='96' r='36' fill='#FFD166'/><path d='M0 198 Q200 178 400 198 L400 300 L0 300 Z' fill='#A8D89A'/><ellipse cx='200' cy='258' rx='165' ry='36' fill='#7CC6FE'/><g class='kg-bob'><ellipse cx='144' cy='210' rx='34' ry='23' fill='#F7C948'/><circle cx='164' cy='172' r='24' fill='#F7C948'/><ellipse cx='186' cy='177' rx='13' ry='7.5' fill='#F08A24'/><circle cx='171' cy='167' r='3.5' fill='#2F2419'/><circle cx='162' cy='178' r='5' fill='#F29B8F' opacity='0.6'/></g><g class='kg-bob'><ellipse cx='242' cy='128' rx='9' ry='26' fill='#D4B59E' transform='rotate(-8 242 128)'/><ellipse cx='264' cy='128' rx='9' ry='26' fill='#D4B59E' transform='rotate(8 264 128)'/><ellipse cx='252' cy='210' rx='28' ry='32' fill='#D4B59E'/><circle cx='252' cy='164' r='26' fill='#D4B59E'/><circle cx='243' cy='160' r='3.5' fill='#2F2419'/><circle cx='261' cy='160' r='3.5' fill='#2F2419'/><path d='M245 174 Q252 181 259 174' fill='none' stroke='#4A3222' stroke-width='2.5' stroke-linecap='round'/></g><g class='kg-float'><path d='M202 146 C202 138 190 138 190 146 C190 154 202 162 202 162 C202 162 214 154 214 146 C214 138 202 138 202 146 Z' fill='#E63946'/></g></svg>"
+    }
+  ],
+  "questions": [
+    {
+      "type": "recall",
+      "questionDe": "Wo schwimmt Lotti die Ente am Anfang der Geschichte?",
+      "questionEn": "Where does Lotti the duck swim at the beginning of the story?",
+      "answerDe": "Lotti schwimmt im blauen Teich.",
+      "answerEn": "Lotti swims in the blue pond."
+    },
+    {
+      "type": "recall",
+      "questionDe": "Warum ist der kleine Hase neben dem Baum traurig?",
+      "questionEn": "Why is the little rabbit next to the tree sad?",
+      "answerDe": "Sein Bauch knurrt, weil er Hunger hat.",
+      "answerEn": "His tummy is rumbling because he is hungry."
+    },
+    {
+      "type": "recall",
+      "questionDe": "Was macht Lotti mit dem grossen Rüebli?",
+      "questionEn": "What does Lotti do with the big carrot?",
+      "answerDe": "Sie teilt das Rüebli in zwei Stücke für sich und den Hasen.",
+      "answerEn": "She splits the carrot into two pieces for herself and the rabbit."
+    },
+    {
+      "type": "vocab",
+      "questionDe": "Wie heisst das orange Gemüse auf Schweizerdeutsch in unserer Geschichte?",
+      "questionEn": "What is the orange vegetable called in Swiss German in our story?",
+      "answerDe": "Es heisst das Rüebli!",
+      "answerEn": "It is called das Rüebli!"
+    },
+    {
+      "type": "open",
+      "questionDe": "Mit wem teilst du gerne etwas Leckeres?",
+      "questionEn": "Who do you like to share something yummy with?",
+      "answerDe": "Zum Beispiel mit Mama, Papa oder einem Freund im Kindergarten!",
+      "answerEn": "For example with Mom, Dad, or a friend at kindergarten!"
+    }
+  ]
+}

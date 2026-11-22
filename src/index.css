@@ -1,0 +1,112 @@
+@import "tailwindcss";
+
+:root {
+  --bg-page: #fdf6ec;
+  --bg-card: #fffcf7;
+  --bg-elevated: #f5ead9;
+  --bg-subtle: #efe1cb;
+  --text-main: #2f2419;
+  --text-muted: #6f5d4b;
+  --border-soft: #e6d5bd;
+  --accent: #d96b38;
+  --accent-soft: #fde6d8;
+  --accent-text: #ffffff;
+
+  /* German gender color coding */
+  --der-bg: #dbeafe;
+  --der-text: #1d4ed8;
+  --der-border: #93c5fd;
+
+  --die-bg: #ffe4e6;
+  --die-text: #be123c;
+  --die-border: #fda4af;
+
+  --das-bg: #dcfce7;
+  --das-text: #15803d;
+  --das-border: #86efac;
+}
+
+.bedtime {
+  --bg-page: #1d1814;
+  --bg-card: #28211b;
+  --bg-elevated: #332a22;
+  --bg-subtle: #3d3228;
+  --text-main: #f3e6d3;
+  --text-muted: #b8a38c;
+  --border-soft: #473a2f;
+  --accent: #e07d4b;
+  --accent-soft: #452c1e;
+  --accent-text: #1d1814;
+
+  --der-bg: #1e3a5f;
+  --der-text: #93c5fd;
+  --der-border: #2c5282;
+
+  --die-bg: #521d2b;
+  --die-text: #fda4af;
+  --die-border: #7f2a3e;
+
+  --das-bg: #1b4332;
+  --das-text: #86efac;
+  --das-border: #2d6a4f;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-page);
+  color: var(--text-main);
+  font-family: 'Nunito', ui-rounded, 'Segoe UI', system-ui, -apple-system, sans-serif;
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+/* Soft storybook dimming on illustrations in bedtime mode */
+.bedtime .svg-stage {
+  filter: brightness(0.84) saturate(0.9);
+}
+
+/* Gentle optional SVG animations used in storybook scenes */
+@keyframes kg-float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-4px); }
+}
+
+@keyframes kg-bob {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-3px); }
+}
+
+@keyframes kg-sway {
+  0%, 100% { transform: rotate(-2deg); }
+  50% { transform: rotate(2deg); }
+}
+
+.kg-float {
+  animation: kg-float 4.2s ease-in-out infinite;
+}
+
+.kg-bob {
+  animation: kg-bob 2.8s ease-in-out infinite;
+}
+
+.kg-sway {
+  transform-box: fill-box;
+  transform-origin: center bottom;
+  animation: kg-sway 3.6s ease-in-out infinite;
+}
+
+/* Safe area padding for Android/iOS bottom bars */
+.pb-safe {
+  padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+}
+
+.pt-safe {
+  padding-top: max(0.75rem, env(safe-area-inset-top));
+}
